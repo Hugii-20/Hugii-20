@@ -10,3 +10,7 @@ I'm:
 - 💬 Ask me about whathever you want.
 - ⚡ Fun fact: I'm a weird person but you can help me
 -->
+
+<a href="https://github.com/Hugii-20/github-quote">
+
+<img src="https://github-quote.vercel.app/api?type=dark"/>
