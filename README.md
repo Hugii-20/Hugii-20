@@ -9,5 +9,5 @@ I'm:
 - 🤔 I’m looking for help with A
 - 💬 Ask me about whathever you want.
 - ⚡ Fun fact: I'm a weird person but you can help me
--->
+--> https://dsc.gg/nipher
 
