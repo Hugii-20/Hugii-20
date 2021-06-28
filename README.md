@@ -3,9 +3,8 @@
 
 I'm:
 
-- 🔭 I’m currently working on anything.
-- 🌱 I’m currently learning some script languages.
-- 👯 I’m looking to collaborate on anyone.
+- 🔭 I’m currently working on a low-cost CCleaner or ASC (Advanced SystemCare).
+- 🌱 I’m currently learning batch.
 - 🤔 I’m looking for help with anyone
 - 💬 Ask me about whathever you want.
 
